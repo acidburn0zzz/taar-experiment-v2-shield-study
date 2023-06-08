@@ -41,7 +41,7 @@
     "mocha": "^3.4.2",
     "moustache": "0.0.2",
     "npm-run-all": "^4.1.1",
-    "nsp": "^2.8.1",
+    "nsp": "^3.2.1",
     "onchange": "^3.2.1",
     "path": "^0.12.7",
     "selenium-webdriver": "^3.5.0",
